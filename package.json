@@ -1,0 +1,23 @@
+{
+  "name": "lintTry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gs-maker/lintTry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gs-maker/lintTry/issues"
+  },
+  "homepage": "https://github.com/gs-maker/lintTry#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
